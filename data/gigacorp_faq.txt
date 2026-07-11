@@ -1,0 +1,49 @@
+GIGACORP CUSTOMER SUPPORT FAQ
+==============================
+
+SECTION 1: SHIPPING POLICY
+Line 1: GigaCorp ships to over 40 countries worldwide, including India, the USA, the UK, Canada, Australia, and all EU member states.
+Line 2: Domestic shipping within the USA takes 3-5 business days using Standard Shipping.
+Line 3: Domestic Express Shipping within the USA takes 1-2 business days and costs an additional $12.99.
+Line 4: International shipping to India typically takes 7-10 business days via Standard International Shipping.
+Line 5: International shipping to India via Express International Shipping takes 3-5 business days and costs $34.99.
+Line 6: Shipping to India for orders over $75 USD qualifies for free Standard International Shipping.
+Line 7: Shipping to the UK and EU countries takes 5-8 business days for Standard International Shipping, priced at $19.99.
+Line 8: Orders are processed within 24 hours on business days before being handed to the shipping carrier.
+Line 9: GigaCorp does not currently ship to countries under active international trade sanctions.
+Line 10: Customers can track their shipment in real time using the tracking link emailed after dispatch.
+
+SECTION 2: RETURN AND REFUND PROCESS
+Line 11: GigaCorp accepts returns within 30 days of the delivery date for a full refund.
+Line 12: Items must be unused, in original packaging, and accompanied by the original receipt or order confirmation email.
+Line 13: To initiate a return, customers must submit a return request through the "My Orders" page on the GigaCorp website.
+Line 14: Once a return is approved, GigaCorp emails a prepaid return shipping label to the customer.
+Line 15: Refunds are processed within 5-7 business days after the returned item is received and inspected at the warehouse.
+Line 16: Refunds are issued to the original payment method used at checkout.
+Line 17: Sale items marked "Final Sale" are not eligible for return or refund.
+Line 18: Defective or damaged items can be exchanged free of charge within 60 days of delivery.
+Line 19: Return shipping is free for customers on the Gold and Platinum service tiers (see Section 4).
+Line 20: Standard tier customers are responsible for a flat $5.99 return shipping fee, deducted from the refund amount.
+
+SECTION 3: BUSINESS HOURS AND CONTACT
+Line 21: GigaCorp's customer support team is available Monday through Friday, 9:00 AM to 8:00 PM Eastern Standard Time.
+Line 22: On Saturdays, support is available from 10:00 AM to 4:00 PM Eastern Standard Time.
+Line 23: GigaCorp customer support is closed on Sundays and on all major US federal holidays.
+Line 24: Live chat support, available on the website, has the fastest average response time of under 2 minutes during business hours.
+Line 25: Email support requests sent to support@gigacorp-example.com typically receive a response within 24 business hours.
+Line 26: Phone support is available exclusively to Gold and Platinum tier customers at +1-800-555-0199.
+Line 27: GigaCorp's head office operates out of Austin, Texas, but support agents work in distributed time zones to extend live coverage.
+
+SECTION 4: SERVICE TIERS
+Line 28: GigaCorp offers three customer service tiers: Standard, Gold, and Platinum.
+Line 29: Standard tier is free for all customers and includes access to email and live chat support.
+Line 30: Gold tier costs $9.99/month and adds phone support, free return shipping, and priority order processing.
+Line 31: Platinum tier costs $24.99/month and includes everything in Gold, plus a dedicated account manager and same-day dispatch on orders placed before 12 PM EST.
+Line 32: Platinum tier customers also receive early access to sales events, 48 hours before Standard and Gold tier customers.
+Line 33: Customers can upgrade, downgrade, or cancel their service tier at any time from the "Account Settings" page with no cancellation fees.
+Line 34: Annual billing for Gold and Platinum tiers is available at a 15% discount compared to monthly billing.
+
+SECTION 5: MISCELLANEOUS POLICIES
+Line 35: GigaCorp's price match guarantee applies if a customer finds a lower price from an authorized retailer within 14 days of purchase.
+Line 36: Gift cards issued by GigaCorp never expire and can be used for any product on the website.
+Line 37: GigaCorp does not sell customer data to third parties and encrypts all payment information using industry-standard TLS 1.3.

@@ -5,7 +5,7 @@ A conversational customer support assistant for a fictional company,
 Retrieval-Augmented Generation (RAG), cites the exact section and line it
 pulled its answer from, and remembers earlier turns in the conversation.
 
-**Live demo:** _\<add your Streamlit Community Cloud URL here after deploying\>_
+**Live demo:** _https://customer-support-rag-agent-4gmp8ddbu4qbre6gorbayx.streamlit.app/_
 
 ## Architecture
 

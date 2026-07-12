@@ -18,6 +18,16 @@ from rag_engine import build_or_load_vectorstore, build_conversational_rag_chain
 
 st.set_page_config(page_title="GigaCorp Support Assistant", page_icon="\U0001F4AC", layout="centered")
 
+def escape_markdown_dollars(text: str) -> str:
+    """
+    Streamlit's st.markdown renders text between $ signs as LaTeX math.
+    Since our FAQ answers legitimately contain dollar amounts (e.g. $34.99),
+    escape every '$' so it displays as a literal dollar sign instead of
+    triggering (and garbling content inside) math mode.
+    """
+    return text.replace("$", "\\$")
+
+
 st.title("\U0001F4AC GigaCorp Support Assistant")
 st.caption(
     "Ask me about shipping, returns, business hours, or service tiers. "
@@ -76,10 +86,10 @@ if "display_messages" not in st.session_state:
 
 for msg in st.session_state.display_messages:
     with st.chat_message(msg["role"]):
-        st.markdown(msg["content"])
+        st.markdown(escape_markdown_dollars(msg["content"]))
         if msg.get("sources"):
             with st.expander("\U0001F4CE Sources"):
-                st.markdown(msg["sources"])
+                st.markdown(escape_markdown_dollars(msg["sources"]))
 
 user_input = st.chat_input("e.g. Do you ship to India?")
 
@@ -106,10 +116,10 @@ if user_input:
                 )
                 sources_md = ""
 
-        st.markdown(answer)
+        st.markdown(escape_markdown_dollars(answer))
         if sources_md:
             with st.expander("\U0001F4CE Sources"):
-                st.markdown(sources_md)
+                st.markdown(escape_markdown_dollars(sources_md))
 
     st.session_state.display_messages.append(
         {"role": "assistant", "content": answer, "sources": sources_md}
